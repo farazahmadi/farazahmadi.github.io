@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>k-means | Faraz Ahmadi</title>
+    <link>https://farazahmadi.github.io/tag/k-means/</link>
+      <atom:link href="https://farazahmadi.github.io/tag/k-means/index.xml" rel="self" type="application/rss+xml" />
+    <description>k-means</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright (c) `2021` Faraz Ahmadi </copyright><lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://farazahmadi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>k-means</title>
+      <link>https://farazahmadi.github.io/tag/k-means/</link>
+    </image>
+    
+    <item>
+      <title>Customer Segmentation of the Airline Data</title>
+      <link>https://farazahmadi.github.io/project/airline-segment/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://farazahmadi.github.io/project/airline-segment/</guid>
+      <description>&lt;p&gt;The overall objective is to find as good a segmentation of the data as possible. Those data ask customers
+for their perceptions on several attributes of air travel, their satisfaction with the airline and whether
+they would recommend the airline. The attitude variables would be used for the Level 1 segmentation and the demographic variables are used for the Level 2 component of the segmentation.&lt;/p&gt;
+&lt;p&gt;I used the k-means algorithm to cluster the customers together. In the end, I had a tough time to personify the segments based on their level-1 and 2 results. Maybe the sample size was too low to give us good results.&lt;/p&gt;
+&lt;p&gt;The work here was a part of my assignments for &lt;em&gt;M733 Marketing Analytics&lt;/em&gt; course that I took in 2020. The &lt;a href=&#34;https://farazahmadi.github.io/proj/assign4.html&#34;&gt;report&lt;/a&gt; is produced using &lt;em&gt;Rstudio&lt;/em&gt; as an HTML file. You can find the code on my &lt;a href=&#34;https://github.com/farazahmadi/airline-data-segmentation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regression | Faraz Ahmadi</title>
+    <link>https://farazahmadi.github.io/tag/regression/</link>
+      <atom:link href="https://farazahmadi.github.io/tag/regression/index.xml" rel="self" type="application/rss+xml" />
+    <description>regression</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright (c) `2021` Faraz Ahmadi </copyright>
+    <image>
+      <url>https://farazahmadi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>regression</title>
+      <link>https://farazahmadi.github.io/tag/regression/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Life Expectancy in Global Public Health Data</title>
+      <link>https://farazahmadi.github.io/project/life-expectancy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://farazahmadi.github.io/project/life-expectancy/</guid>
+      <description>&lt;p&gt;This was part of my data science course in Winter 2020&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

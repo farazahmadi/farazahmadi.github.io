@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>segmentation | Faraz Ahmadi</title>
+    <link>https://farazahmadi.github.io/tag/segmentation/</link>
+      <atom:link href="https://farazahmadi.github.io/tag/segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>segmentation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright (c) `2021` Faraz Ahmadi </copyright><lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://farazahmadi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>segmentation</title>
+      <link>https://farazahmadi.github.io/tag/segmentation/</link>
+    </image>
+    
+    <item>
+      <title>Health and Wellness Segmentation on Ontario population for RBC Insurance</title>
+      <link>https://farazahmadi.github.io/project/rbci/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://farazahmadi.github.io/project/rbci/</guid>
+      <description>&lt;p&gt;The goal of this project was to understand the segments that are struggling with their health and
+wellness as a result of the pandemic, and the types (or themes) of struggles they are facing or main areas of concern in order to recommend the types of supplemental services or partnerships.&lt;/p&gt;
+&lt;p&gt;The project was proposed by RBC Insurance as the final project for the MBA course I was taking in Fall 2020. In this project I practiced team-work in a full scale data science project. A wide range of analytical methods were use to produce knowledge from both data sets.&lt;/p&gt;
+&lt;p&gt;Two different data sets were used in this analysis. &lt;a href=&#34;https://www.delvinia.com/camh-coronavirus-mental-health/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CAMH&lt;/a&gt; by Delvinia and the geo-demographic data from &lt;a href=&#34;https://environicsanalytics.com/en-ca&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Environics Analytics&lt;/a&gt;. We were given access to the latter, only for this course and project and that is why I am not sharing the report or code here. They both can be shared (without the rough data set) upon request.&lt;/p&gt;
+&lt;p&gt;The work here was the final group project for &lt;em&gt;M733 Marketing Analytics&lt;/em&gt; MBA course that I took in 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Customer Segmentation of the Airline Data</title>
+      <link>https://farazahmadi.github.io/project/airline-segment/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://farazahmadi.github.io/project/airline-segment/</guid>
+      <description>&lt;p&gt;The overall objective is to find as good a segmentation of the data as possible. Those data ask customers
+for their perceptions on several attributes of air travel, their satisfaction with the airline and whether
+they would recommend the airline. The attitude variables would be used for the Level 1 segmentation and the demographic variables are used for the Level 2 component of the segmentation.&lt;/p&gt;
+&lt;p&gt;I used the k-means algorithm to cluster the customers together. In the end, I had a tough time to personify the segments based on their level-1 and 2 results. Maybe the sample size was too low to give us good results.&lt;/p&gt;
+&lt;p&gt;The work here was a part of my assignments for &lt;em&gt;M733 Marketing Analytics&lt;/em&gt; course that I took in 2020. The &lt;a href=&#34;https://farazahmadi.github.io/proj/assign4.html&#34;&gt;report&lt;/a&gt; is produced using &lt;em&gt;Rstudio&lt;/em&gt; as an HTML file. You can find the code on my &lt;a href=&#34;https://github.com/farazahmadi/airline-data-segmentation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

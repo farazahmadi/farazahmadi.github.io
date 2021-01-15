@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data-cleaning | Faraz Ahmadi</title>
+    <link>https://farazahmadi.github.io/tag/data-cleaning/</link>
+      <atom:link href="https://farazahmadi.github.io/tag/data-cleaning/index.xml" rel="self" type="application/rss+xml" />
+    <description>data-cleaning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright (c) `2021` Faraz Ahmadi </copyright><lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://farazahmadi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>data-cleaning</title>
+      <link>https://farazahmadi.github.io/tag/data-cleaning/</link>
+    </image>
+    
+    <item>
+      <title>Ice cream Customer&#39;s Survey Data Cleaning</title>
+      <link>https://farazahmadi.github.io/project/icecream-cleaning/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://farazahmadi.github.io/project/icecream-cleaning/</guid>
+      <description>&lt;p&gt;This work is a preliminary data analysis task done on a survey data set done on ice cream brands. Its purpose is to clean and prepare the data set using different packages in R so that it can be used most easily by the analysts. This data set accompanies the &lt;strong&gt;“Seven Summits of Marketing Research”&lt;/strong&gt; text by Greg Allenby and Jeff Brazell. This was my first assignment for the Marketing Analysis course I had in fall 2020.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://farazahmadi.github.io/proj/proj-html.html&#34;&gt;report&lt;/a&gt; is produced using &lt;em&gt;Rstudio&lt;/em&gt; as an HTML file. You can find the code on my &lt;a href=&#34;https://github.com/farazahmadi/Icecream-survey-cleaning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github page&lt;/a&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Reading the Seven Summits ice cream data&lt;/li&gt;
+&lt;li&gt;Reducing to essential variables needed for analyses&lt;/li&gt;
+&lt;li&gt;Treating missing values&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Using the &lt;code&gt;mice&lt;/code&gt; package for imputing missing values&lt;/li&gt;
+&lt;li&gt;Using the &lt;code&gt;sjmisc&lt;/code&gt; package to merge the 5 datasets into one.&lt;/li&gt;
+&lt;li&gt;Comparing the statistics of the original variables against the imputed variables&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Saving the imputed datasets&lt;/li&gt;
+&lt;li&gt;Recombining the data&lt;/li&gt;
+&lt;li&gt;Renaming the screening, brand assessment, attitude and demographic variables&lt;/li&gt;
+&lt;li&gt;Recoding the variables&lt;/li&gt;
+&lt;li&gt;Saving the data&lt;/li&gt;
+&lt;li&gt;Conclusion&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting Life Expectancy in Global Public Health Data</title>
+      <link>https://farazahmadi.github.io/project/life-expectancy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://farazahmadi.github.io/project/life-expectancy/</guid>
+      <description>&lt;p&gt;This was part of my data science course in Winter 2020&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

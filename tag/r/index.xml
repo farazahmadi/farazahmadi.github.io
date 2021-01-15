@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Faraz Ahmadi</title>
+    <link>https://farazahmadi.github.io/tag/r/</link>
+      <atom:link href="https://farazahmadi.github.io/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright (c) `2021` Faraz Ahmadi </copyright><lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://farazahmadi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>R</title>
+      <link>https://farazahmadi.github.io/tag/r/</link>
+    </image>
+    
+    <item>
+      <title>Health and Wellness Segmentation on Ontario population for RBC Insurance</title>
+      <link>https://farazahmadi.github.io/project/rbci/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://farazahmadi.github.io/project/rbci/</guid>
+      <description>&lt;p&gt;The goal of this project was to understand the segments that are struggling with their health and
+wellness as a result of the pandemic, and the types (or themes) of struggles they are facing or main areas of concern in order to recommend the types of supplemental services or partnerships.&lt;/p&gt;
+&lt;p&gt;The project was proposed by RBC Insurance as the final project for the MBA course I was taking in Fall 2020. In this project I practiced team-work in a full scale data science project. A wide range of analytical methods were use to produce knowledge from both data sets.&lt;/p&gt;
+&lt;p&gt;Two different data sets were used in this analysis. &lt;a href=&#34;https://www.delvinia.com/camh-coronavirus-mental-health/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CAMH&lt;/a&gt; by Delvinia and the geo-demographic data from &lt;a href=&#34;https://environicsanalytics.com/en-ca&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Environics Analytics&lt;/a&gt;. We were given access to the latter, only for this course and project and that is why I am not sharing the report or code here. They both can be shared (without the rough data set) upon request.&lt;/p&gt;
+&lt;p&gt;The work here was the final group project for &lt;em&gt;M733 Marketing Analytics&lt;/em&gt; MBA course that I took in 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating Dashboards in R using shiny and flexdashboard</title>
+      <link>https://farazahmadi.github.io/project/shiny-dash/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://farazahmadi.github.io/project/shiny-dash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer Segmentation of the Airline Data</title>
+      <link>https://farazahmadi.github.io/project/airline-segment/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://farazahmadi.github.io/project/airline-segment/</guid>
+      <description>&lt;p&gt;The overall objective is to find as good a segmentation of the data as possible. Those data ask customers
+for their perceptions on several attributes of air travel, their satisfaction with the airline and whether
+they would recommend the airline. The attitude variables would be used for the Level 1 segmentation and the demographic variables are used for the Level 2 component of the segmentation.&lt;/p&gt;
+&lt;p&gt;I used the k-means algorithm to cluster the customers together. In the end, I had a tough time to personify the segments based on their level-1 and 2 results. Maybe the sample size was too low to give us good results.&lt;/p&gt;
+&lt;p&gt;The work here was a part of my assignments for &lt;em&gt;M733 Marketing Analytics&lt;/em&gt; course that I took in 2020. The &lt;a href=&#34;https://farazahmadi.github.io/proj/assign4.html&#34;&gt;report&lt;/a&gt; is produced using &lt;em&gt;Rstudio&lt;/em&gt; as an HTML file. You can find the code on my &lt;a href=&#34;https://github.com/farazahmadi/airline-data-segmentation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predict Return to Airline</title>
+      <link>https://farazahmadi.github.io/project/key-drivers-airline/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://farazahmadi.github.io/project/key-drivers-airline/</guid>
+      <description>&lt;p&gt;This is a comprehensive predictive analytics project, in which I clean and prepare the raw survey data for the analysis. Do exploratory analysis around customer&amp;rsquo;s responses, check for multicollinearity among questions in the survey and then use Logistic Regression in &lt;a href=&#34;https://www.h2o.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;H2O&lt;/a&gt; to create a predictive model and identify the key drivers of return, an insight which could be used for making marketing decisions.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://farazahmadi.github.io/proj/assign2.html&#34;&gt;report&lt;/a&gt; is produced using &lt;em&gt;Rstudio&lt;/em&gt; as an HTML file. You can find the code on my &lt;a href=&#34;https://github.com/farazahmadi/key-drivers-airline&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ice cream Customer&#39;s Survey Data Cleaning</title>
+      <link>https://farazahmadi.github.io/project/icecream-cleaning/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://farazahmadi.github.io/project/icecream-cleaning/</guid>
+      <description>&lt;p&gt;This work is a preliminary data analysis task done on a survey data set done on ice cream brands. Its purpose is to clean and prepare the data set using different packages in R so that it can be used most easily by the analysts. This data set accompanies the &lt;strong&gt;“Seven Summits of Marketing Research”&lt;/strong&gt; text by Greg Allenby and Jeff Brazell. This was my first assignment for the Marketing Analysis course I had in fall 2020.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://farazahmadi.github.io/proj/proj-html.html&#34;&gt;report&lt;/a&gt; is produced using &lt;em&gt;Rstudio&lt;/em&gt; as an HTML file. You can find the code on my &lt;a href=&#34;https://github.com/farazahmadi/Icecream-survey-cleaning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github page&lt;/a&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Reading the Seven Summits ice cream data&lt;/li&gt;
+&lt;li&gt;Reducing to essential variables needed for analyses&lt;/li&gt;
+&lt;li&gt;Treating missing values&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Using the &lt;code&gt;mice&lt;/code&gt; package for imputing missing values&lt;/li&gt;
+&lt;li&gt;Using the &lt;code&gt;sjmisc&lt;/code&gt; package to merge the 5 datasets into one.&lt;/li&gt;
+&lt;li&gt;Comparing the statistics of the original variables against the imputed variables&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Saving the imputed datasets&lt;/li&gt;
+&lt;li&gt;Recombining the data&lt;/li&gt;
+&lt;li&gt;Renaming the screening, brand assessment, attitude and demographic variables&lt;/li&gt;
+&lt;li&gt;Recoding the variables&lt;/li&gt;
+&lt;li&gt;Saving the data&lt;/li&gt;
+&lt;li&gt;Conclusion&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting Life Expectancy in Global Public Health Data</title>
+      <link>https://farazahmadi.github.io/project/life-expectancy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://farazahmadi.github.io/project/life-expectancy/</guid>
+      <description>&lt;p&gt;This was part of my data science course in Winter 2020&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

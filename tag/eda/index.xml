@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EDA | Faraz Ahmadi</title>
+    <link>https://farazahmadi.github.io/tag/eda/</link>
+      <atom:link href="https://farazahmadi.github.io/tag/eda/index.xml" rel="self" type="application/rss+xml" />
+    <description>EDA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright (c) `2021` Faraz Ahmadi </copyright><lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://farazahmadi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>EDA</title>
+      <link>https://farazahmadi.github.io/tag/eda/</link>
+    </image>
+    
+    <item>
+      <title>Predict Return to Airline</title>
+      <link>https://farazahmadi.github.io/project/key-drivers-airline/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://farazahmadi.github.io/project/key-drivers-airline/</guid>
+      <description>&lt;p&gt;This is a comprehensive predictive analytics project, in which I clean and prepare the raw survey data for the analysis. Do exploratory analysis around customer&amp;rsquo;s responses, check for multicollinearity among questions in the survey and then use Logistic Regression in &lt;a href=&#34;https://www.h2o.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;H2O&lt;/a&gt; to create a predictive model and identify the key drivers of return, an insight which could be used for making marketing decisions.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://farazahmadi.github.io/proj/assign2.html&#34;&gt;report&lt;/a&gt; is produced using &lt;em&gt;Rstudio&lt;/em&gt; as an HTML file. You can find the code on my &lt;a href=&#34;https://github.com/farazahmadi/key-drivers-airline&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
