@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>imbalanced classification | Faraz Ahmadi</title>
+    <link>https://farazahmadi.github.io/tag/imbalanced-classification/</link>
+      <atom:link href="https://farazahmadi.github.io/tag/imbalanced-classification/index.xml" rel="self" type="application/rss+xml" />
+    <description>imbalanced classification</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright (c) `2021` Faraz Ahmadi </copyright><lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://farazahmadi.github.io/images/icon_huc7cda376bf0757938c9e4b41ba46f61f_19135_512x512_fill_lanczos_center_2.png</url>
+      <title>imbalanced classification</title>
+      <link>https://farazahmadi.github.io/tag/imbalanced-classification/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning Predictions of Alternate Level of Care (ALC) in Canada: From Emergency Department to the in-Hospital Stage</title>
+      <link>https://farazahmadi.github.io/project/alc-thesis/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://farazahmadi.github.io/project/alc-thesis/</guid>
+      <description>&lt;p&gt;In Canada, patients who occupy hospital beds but do not require that intensity of care are called Alternate Level of Care (ALC) patients. ALC has numerous negative implications on patient health and the health care system. Early identification of patients who are at risk of becoming ALC could help decision-makers better manage the situation and alleviate this problem. This thesis evaluates the use of various ML algorithms in predicting ALC at two different time points in the patient’s trajectory. Moreover, it identifies the most important predictors of ALC in each time point and provides insights on how adding more information, at the expense of time for decision-making, would improve the predictive accuracy.&lt;/p&gt;
+&lt;p&gt;In this study, ML methods were deployed using retrospective electronic health records. Our research is comprised of two separate algorithms at two different time points in the patient’s journey. The figure below presents the overview of the two algorithms. The first algorithm is carried in the ED stage and uses predictors available before admission to acute care hospital to predict delayed discharge in the hospital. The second algorithm uses a combination of predictors in both ED and hospital to predict the same outcome.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/farazahmadi/machine-learning-prediction-of-alternate-level-of-care/blob/7957364c0f263d2e80325643d1118e9b47ef3754/method.png&#34; alt=&#34;method&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The work here was my master&amp;rsquo;s thesis for the degree master of science in computational science &amp;amp; engineering from &lt;strong&gt;McMaster University&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
